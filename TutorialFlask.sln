@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FlaskWebProject1", "FlaskWebProject1\FlaskWebProject1.pyproj", "{200E1E9F-11C4-451D-A709-B8169AA58222}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FlaskWebProject2", "FlaskWebProject2\FlaskWebProject2.pyproj", "{755EF1D0-19E3-48FC-96F8-6656E9A69FA4}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FlaskWebProject3", "FlaskWebProject3\FlaskWebProject3.pyproj", "{321411F8-449B-41B4-B776-F534D9543CF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{200E1E9F-11C4-451D-A709-B8169AA58222}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{200E1E9F-11C4-451D-A709-B8169AA58222}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{200E1E9F-11C4-451D-A709-B8169AA58222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{755EF1D0-19E3-48FC-96F8-6656E9A69FA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{755EF1D0-19E3-48FC-96F8-6656E9A69FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{755EF1D0-19E3-48FC-96F8-6656E9A69FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{755EF1D0-19E3-48FC-96F8-6656E9A69FA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{321411F8-449B-41B4-B776-F534D9543CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{321411F8-449B-41B4-B776-F534D9543CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{321411F8-449B-41B4-B776-F534D9543CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{321411F8-449B-41B4-B776-F534D9543CF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -339,3 +339,5 @@ ASALocalRun/
 # BeatPulse healthcheck temp database
 healthchecksdb
 /FlaskWebProject1/env
+/FlaskWebProject2/env
+/FlaskWebProject3/env
